@@ -1,3 +1,1 @@
-# 端午作业提交地址 
-## 请提交作业生成的html地址
-## 半个小时内提交完成
+https://zz907491279.github.io/w1701-5.27/qiantaiPage/news.html
